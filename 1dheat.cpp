@@ -66,7 +66,7 @@ void update(double *var, double *var_new, int nx){
 
 int main(){
 
-  int nx = 11;
+  int nx = 9;
   double k  = 1.;
   double dx = 1.;
   double dt = 0.01;
